@@ -1,0 +1,11 @@
+# to install older version of pip
+python -m pip install --upgrade pip==9.0.3
+
+# to install license 
+pip install --no-cache-dir https://get.graphlab.com/GraphLab-Create/2.1/r38411@yahoo.com/D9D1-66F4-C426-1F44-B582-4D05-2594-762C/GraphLab-Create-License.tar.gz
+
+# to install notebook
+conda install ipython-notebook
+
+# to invoke notebook
+jupyter notebook&
